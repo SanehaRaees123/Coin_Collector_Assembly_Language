@@ -5,7 +5,7 @@ It was developed as part of a Computer Organization and Assembly Language (COAL)
 
 ---
 
-## ✨ Features
+##  Features
 - Player can move left and right
 - Collect coins to increase score
 - Borders and obstacles handling
@@ -14,13 +14,13 @@ It was developed as part of a Computer Organization and Assembly Language (COAL)
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Assembly Language (MASM/TASM)
 - Visual Studio (for project setup)
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Clone or download this repository.
 2. Open the `COINCOLLECTOR.sln` file in Visual Studio.
 3. Build the project (F7).
